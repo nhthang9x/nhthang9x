@@ -5,11 +5,11 @@ My name is Thang Nguyen. I am an M.Sc. in Computer Science, majoring in Digital 
 
 <a href="https://github.com/nhthang9x/Yolo-v2-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhthang9x&repo=Yolo-v2-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhthang9x&repo=Yolo-v2-pytorch&theme=gruvbox" />
 </a>    
 <a href="https://github.com/nhthang9x/Photomosaic-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhthang9x&repo=Photomosaic-generator&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhthang9x&repo=Photomosaic-generator&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nhthang9x/Character-level-cnn-pytorch/">
